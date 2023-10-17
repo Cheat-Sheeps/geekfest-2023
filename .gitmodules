@@ -1,0 +1,6 @@
+[submodule "fraudulent_api"]
+	path = fraudulent_api
+	url = https://github.com/Cheat-Sheeps-Bell-Hackaton/fraudulent_api.git
+[submodule "chromium-extension"]
+	path = chromium-extension
+	url = https://github.com/Cheat-Sheeps-Bell-Hackaton/chromium-extension
